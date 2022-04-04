@@ -21,6 +21,7 @@ radio.setGroup(1)
 let opencount = 0
 dooropentime = 0
 doorclosetime = 0
+basic.clearScreen()
 basic.forever(function () {
 	
 })
