@@ -1,5 +1,5 @@
 {
-    "name": "door_alarm_reciever",
+    "name": "microbit_door_alarm_reciever",
     "description": "",
     "dependencies": {
         "core": "*",
